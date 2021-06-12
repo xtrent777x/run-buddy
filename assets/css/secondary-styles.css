@@ -1,0 +1,49 @@
+.hero {
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #fce138;
+    
+  }
+
+  .page title {
+      color: #fce138;
+      display: inline-block;
+      border-bottom: 4px solid #fce138;
+     padding-top: 0;
+     padding-right: 80px;
+     padding-bottom: 15px;
+     padding-left: 80px;   
+      font-weight: normal;
+      font-style: italic;
+
+  }
+
+  .secondary-contest {
+      width: 80%;
+      margin: 0 auto;
+      color: #024e76;
+
+  }
+
+  .secondary-contest h3 {
+      font-size: 25px;
+      margin: 20px 0 20px 0;
+
+  }
+
+  .secondary-contest p {
+      font-size: 16px;
+      line-height: 1.5;
+      margin: 20px 0 20px 0;
+  }
+
+  .secondary-contest ul {
+      margin: 15px 20px 15px 20px;
+  }
+
+  .secondary-contest li {
+      color: #39a6b2;
+      margin: 10px 0 10px 0;
+  }
